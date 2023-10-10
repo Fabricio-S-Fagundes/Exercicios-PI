@@ -1,0 +1,37 @@
+
+/* eu tentei mas ficou meio dificil mexer com esses graficos */
+
+
+body{
+    margin: 0;
+    display: flex;
+    background-color: yellow;
+}
+
+div{
+    display: flex;
+    margin: auto;
+    padding-top: 180px;
+    justify-content: center;
+}
+
+div canvas{
+    display: flex;
+    background-color: white;
+    align-items: center;
+}
+
+div canvas #grafico_1{
+    display: flex;
+    height: 40vh;
+    width: 60vw;
+    position: relative;
+
+}
+
+div canvas #grafico_2{
+    display: flex;
+    height: 40vh;
+    width: 60vw;
+    position: relative;
+}
